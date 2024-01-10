@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.codersee
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, data, data-mongodb, gradle, http-client-test, junit, kotlin, kotlin-application, ksp, logback, micronaut-aot, micronaut-build, micronaut-http-validation, mongo-sync, netty-server, properties, readme, serialization-jackson, shade, test-resources]
